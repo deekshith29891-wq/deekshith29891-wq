@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Deekshith%20K%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3FF,50:E9D5FF,100:C4B5FD&height=220&section=header&text=Deekshith%20K%20R&fontSize=55&fontColor=4C1D95&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descColor=6D28D9" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/deekshith29891-wq">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+real-world+apps+with+code+%F0%9F%9A%80;Learning+AI+%2F+ML+%2C+Web+Dev+%26+DSA+%F0%9F%A7%A0;Turning+ideas+into+working+software+%F0%9F%92%BB;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+real-world+apps+with+code+%F0%9F%9A%80;Learning+AI+%2F+ML+%2C+Web+Dev+%26+DSA+%F0%9F%A7%A0;Turning+ideas+into+working+software+%F0%9F%92%BB;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=deekshith29891-wq&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/deekshith29891-wq?label=Followers&style=for-the-badge&color=6366F1" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=deekshith29891-wq&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/deekshith29891-wq?label=Followers&style=for-the-badge&color=A855F7" alt="followers"/>
 
 </div>
 
@@ -19,7 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/code.gif" alt="coding gif"/>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 - 🎓 **AI Engineering Student**
 - 💻 Passionate about **Software Development** & **Artificial Intelligence**
@@ -29,7 +31,20 @@
 - 🤝 Open to collaborating on interesting ideas
 - ⚡ Fun fact: I debug faster with coffee ☕ in hand
 
-<br clear="right"/>
+</td>
+<td width="30%" align="center" valign="top">
+
+<img src="assets/profile.jpg" width="220" style="border-radius: 16px; border: 4px solid #C4B5FD;" alt="Deekshith K R"/>
+
+<br/>
+
+**Deekshith K R**
+<br/>
+<sub>AI Engineering Student</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,16 +53,16 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=light" alt="languages" />
 
 ### Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vscode&theme=dark" alt="web dev" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vscode&theme=light" alt="web dev" />
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,figma,postman&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,figma,postman&theme=light" alt="tools" />
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" alt="ai ml" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=light" alt="ai ml" />
 
 </div>
 
@@ -70,16 +85,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deekshith29891-wq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith29891-wq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deekshith29891-wq&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=A855F7&text_color=333333"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith29891-wq&layout=compact&theme=graywhite&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=333333"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=deekshith29891-wq&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=deekshith29891-wq&theme=default&hide_border=true&background=FFFFFF&stroke=E9D5FF&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deekshith29891-wq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deekshith29891-wq&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -120,6 +135,6 @@
 
 ⭐ **If you find my projects interesting, feel free to explore my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:E9D5FF,100:F5F3FF&height=120&section=footer" width="100%"/>
 
 </div>
