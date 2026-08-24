@@ -121,7 +121,7 @@ A personalized platform designed to help medical students prepare for:
 
 **Tech:** React • Node.js • AI APIs • Database
 
-[🔗 View Project](YOUR_PROJECT_URL)
+[🔗 View Project](https://mid-reday-ai.vercel.app/)
 
 ---
 
