@@ -144,7 +144,7 @@ AI analyzes reports and identifies potential matches using:
 - Time similarity
 - Confidence scoring
 
-[🔗 View Project](YOUR_PROJECT_URL)
+[🔗 View Project](https://prompt-werse-campuse-find-ai.vercel.app/)
 
 ---
 
