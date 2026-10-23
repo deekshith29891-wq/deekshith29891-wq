@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/GitHub-deekshith29891--wq-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/deekshith-kr-47b0ba373/?isSelfProfile=true">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://deeksith.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome">
 </a>
 
