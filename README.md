@@ -43,7 +43,7 @@ I'm currently focused on:
 - ⚛️ React
 - 🟢 JavaScript / Node.js
 - 🗄️ Databases
-- ☁️ Cloud Technologies
+  
 - 🚀 Building practical AI products
 
 > **My goal:** Learn technology by building products that solve real problems.
